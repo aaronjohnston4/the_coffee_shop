@@ -2,7 +2,7 @@
 
 ## Description
 
-Land on the homepage of the site, from here you can go to the index page, show page and login. If you login, then you can create wish lists on the wishlist page, or add them to the shopping cart page. I am also making a create product page as well.
+Land on the homepage of the site, from here you can go to the index page, show page and login. If you login, then you can create wish lists on the wishlist page, or add them to the shopping cart page.
 
 I will create this site using python and django.
 
